@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="lunchAndLearn.main" target="1.8" />
+      <module name="lunchAndLearn.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="HaskellBuildOptions">
+    <ghcPath>/usr/bin/ghc</ghcPath>
+    <stackPath>/usr/bin/stack</stackPath>
+  </component>
+</project>
